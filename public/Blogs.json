@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Whispering Woods",
+    "cover": "https://example.com/whispering_woods.jpg",
+    "author": "Luna Gray",
+    "author_img": "https://example.com/luna_gray.jpg",
+    "post_time": "2024-10-20T14:30:00Z",
+    "post_minute": 30,
+    "hashtags": ["#fantasy", "#adventure", "#mystery"]
+  },
+  {
+    "id": 2,
+    "title": "Echoes of Tomorrow",
+    "cover": "https://example.com/echoes_of_tomorrow.jpg",
+    "author": "Oliver Reed",
+    "author_img": "https://example.com/oliver_reed.jpg",
+    "post_time": "2024-10-21T09:15:00Z",
+    "post_minute": 15,
+    "hashtags": ["#sciencefiction", "#dystopia", "#thriller"]
+  },
+  {
+    "id": 3,
+    "title": "The Lost City",
+    "cover": "https://example.com/lost_city.jpg",
+    "author": "Maya Chen",
+    "author_img": "https://example.com/maya_chen.jpg",
+    "post_time": "2024-10-22T11:45:00Z",
+    "post_minute": 45,
+    "hashtags": ["#historicalfiction", "#exploration", "#adventure"]
+  },
+  {
+    "id": 4,
+    "title": "Shadows of the Past",
+    "cover": "https://example.com/shadows_of_the_past.jpg",
+    "author": "Ethan Black",
+    "author_img": "https://example.com/ethan_black.jpg",
+    "post_time": "2024-10-23T08:00:00Z",
+    "post_minute": 0,
+    "hashtags": ["#mystery", "#suspense", "#thriller"]
+  }
+]
