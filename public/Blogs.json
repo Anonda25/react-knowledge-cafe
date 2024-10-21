@@ -2,9 +2,9 @@
   {
     "id": 1,
     "title": "The Whispering Woods",
-    "cover": "https://example.com/whispering_woods.jpg",
+    "cover": "https://i.ibb.co.com/BcFrsFP/1.jpg",
     "author": "Luna Gray",
-    "author_img": "https://example.com/luna_gray.jpg",
+    "author_img": "https://i.ibb.co.com/nPyj9b8/boy1.png",
     "post_time": "2024-10-20T14:30:00Z",
     "post_minute": 30,
     "hashtags": ["#fantasy", "#adventure", "#mystery"]
@@ -12,9 +12,9 @@
   {
     "id": 2,
     "title": "Echoes of Tomorrow",
-    "cover": "https://example.com/echoes_of_tomorrow.jpg",
+    "cover": "https://i.ibb.co.com/hL4xnjG/2.png",
     "author": "Oliver Reed",
-    "author_img": "https://example.com/oliver_reed.jpg",
+    "author_img": "https://i.ibb.co.com/4VY1XcZ/boy2.jpg",
     "post_time": "2024-10-21T09:15:00Z",
     "post_minute": 15,
     "hashtags": ["#sciencefiction", "#dystopia", "#thriller"]
@@ -22,9 +22,9 @@
   {
     "id": 3,
     "title": "The Lost City",
-    "cover": "https://example.com/lost_city.jpg",
+    "cover": "https://i.ibb.co.com/qrttVhK/3.png",
     "author": "Maya Chen",
-    "author_img": "https://example.com/maya_chen.jpg",
+    "author_img": "https://i.ibb.co.com/09YhM44/girl1.jpg",
     "post_time": "2024-10-22T11:45:00Z",
     "post_minute": 45,
     "hashtags": ["#historicalfiction", "#exploration", "#adventure"]
@@ -32,9 +32,9 @@
   {
     "id": 4,
     "title": "Shadows of the Past",
-    "cover": "https://example.com/shadows_of_the_past.jpg",
+    "cover": "https://i.ibb.co.com/jfpMXcM/4.jpg",
     "author": "Ethan Black",
-    "author_img": "https://example.com/ethan_black.jpg",
+    "author_img": "https://i.ibb.co.com/2FQYR9Q/girl2.jpg",
     "post_time": "2024-10-23T08:00:00Z",
     "post_minute": 0,
     "hashtags": ["#mystery", "#suspense", "#thriller"]
