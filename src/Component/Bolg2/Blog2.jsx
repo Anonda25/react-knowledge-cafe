@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 
-function Blog2({ post }) {
-  console.log(post);
+function Blog2({ post, handelAddToBookMark }) {
   const { title, cover, author, author_img, post_minute, post_time, hashtags } =
     post;
   return (
@@ -16,14 +15,27 @@ function Blog2({ post }) {
             <p>{post_time}</p>
           </div>
         </div>
-        <span>{post_minute} min read </span>
+        <span>{post_minute} min read
+             <button>
+             
+             
+             </button> </span>
       </div>
       <h1>{title}</h1>
       <p> {hashtags}</p>
+      {/* style the button and show to the right side card */}
+      <button
+        onClick={() => handelAddToBookMark(post)}
+        className="text-blue-500 font-xl underline"
+      >
+        {" "}
+        Read More
+      </button>
     </div>
   );
 }
-Blog2.propTypes={
-    post:PropTypes.object.isRequired,
-}
+Blog2.propTypes = {
+  post: PropTypes.object.isRequired,
+  handelAddToBookMark:PropTypes.func.isRequired
+};
 export default Blog2;
